@@ -1,7 +1,7 @@
 # Hi there, I'm Likhon 👋
 
 <div align="center">
-  <img src="your-banner-image-url.png" alt="Likhon's Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/likhonsdev/likhonsdev/refs/heads/main/Purple and Pink Gradient Modern Programmer Presentation_20250503_220543_0000.png" alt="Likhon's Banner" width="100%">
 </div>
 
 ## 👨‍💻 About Me
