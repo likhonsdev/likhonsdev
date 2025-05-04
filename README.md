@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <p><b>SheikhPromptor</b>: A programmable system prompt renderer with MDX-native intelligence, banner displays, and recursive agent expressions.</p>
+  <p><b>0 followers · 6 following</b></p>
 </div>
 
 ## Stats
@@ -38,14 +38,17 @@
   <a href="https://likhon.dev">
     <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://t.me/likhondev">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://x.com/likhonsheikhdev">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:me@likhon.dev">
+  <a href="https://gitlab.com/likhonsheikhdev">
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/likhonsheikhdev">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="mailto:likhonsheikhdev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://promptor.run">
-    <img src="https://img.shields.io/badge/-Promptor-6366F1?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
 </div>
 
