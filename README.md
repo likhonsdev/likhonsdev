@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Likhon%20Sheikh&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;React+%26+Node.js+Expert;ASP.NET+%26+PHP+Developer)](https://git.io/typing-svg)
 </div>
 
 ## Tech Stack
@@ -19,10 +15,6 @@
   <a href="https://github.com/likhonsdev/SheikhPromptor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsdev&repo=SheikhPromptor&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
   </a>
-</div>
-
-<div align="center">
-  <p><b>0 followers · 6 following</b></p>
 </div>
 
 ## Stats
