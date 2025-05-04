@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/likhonsdev/likhonsdev/refs/heads/main/Purple and Pink Gradient Modern Programmer Presentation_20250503_220543_0000.png" alt="Likhon's Banner" width="100%">
   
-  # Likhon
+  # Likhon Sheikh
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;JavaScript+Enthusiast;MERN+Stack+Specialist;Always+Learning)](https://git.io/typing-svg)
 </div>
