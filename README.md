@@ -6,13 +6,6 @@
   <img src="https://skillicons.dev/icons?i=react,redux,nodejs,js,php,cs,dotnet,html,css" />
 </div>
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsdev&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhonsdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="42%" />
-</div>
-
 ## Connect
 
 <div align="center">
