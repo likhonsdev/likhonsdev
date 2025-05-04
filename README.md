@@ -6,17 +6,6 @@
   <img src="https://skillicons.dev/icons?i=react,redux,nodejs,js,php,cs,dotnet,html,css" />
 </div>
 
-## Projects
-
-<div align="center">
-  <a href="https://github.com/likhonsdev/Prompt-Engineering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsdev&repo=Prompt-Engineering&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </a>
-  <a href="https://github.com/likhonsdev/SheikhPromptor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsdev&repo=SheikhPromptor&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-  </a>
-</div>
-
 ## Stats
 
 <div align="center">
